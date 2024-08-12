@@ -1,0 +1,23 @@
+	
+This software was developed by CKCET institution
+     
+of CSE department.This software can manage the
+
+class attendence by Qr scanning and send report 
+
+mail to the class incharge faculty.
+
+		
+Shortcuts   :   press 'Tab' for onestep back.
+
+
+DEVELOPERS:
+		
+    Iyappan.K   - QR code making and Logo designing
+		
+              Arunkumar.A   - ComputerVision QR scanning and Decoding
+
+   karthik.P - SMTP mail sending and Voice alert
+				
+         Ragul.S     - GUI developing and Transfer flow of control
+   
